@@ -3,3 +3,4 @@ def FahrenToCelcius(f):
     return c
 f = int(input("Enter temperature in Fahrenheit"))
 print(FahrenToCelcius(f))
+print("Got It")
